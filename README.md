@@ -19,11 +19,11 @@ As a data analyst, I took this opportunity to not just work with raw public heal
 
 ### 🖼️ Sample Visuals
 
-![Vaccination Rate by Region](images/vaccination_rate.png)  
-*Vaccination rates differ significantly across regions.*
+![Dashboard report 1](https://github.com/harsh-bca/National-Family-Health-Survey-Analysis/blob/main/Assets/Dashboard%20report%201.png)  
+*Sanitation condition and Alcohol consumption across Indian States.*
 
-![Infant Mortality Trends](images/infant_mortality.png)  
-*Some states exceed national averages dramatically.*
+![Dashboard report 2](https://github.com/harsh-bca/National-Family-Health-Survey-Analysis/blob/main/Assets/Dashboard%20report%202.png)  
+*Top states where women faced most Sexual Violence.*
 
 ---
 
@@ -60,13 +60,16 @@ This is a proof of my problem-solving ability, storytelling through data, and pr
 
 ---
 
+⚠️ **Concerning Observation:**
+ The NFHS dataset lacks data on sexual violence against men, which raises important questions about inclusivity and gender equality in health reporting. As data professionals, we must not only analyze but also advocate for comprehensive and balanced datasets that represent all demographics equally.
+
 ## 📄 Project Dashboard 👇
 
 📥 [Click here to view the full project Dashboard (Raw File) ](https://github.com/harsh-bca/National-Family-Health-Survey-Analysis/blob/main/Assets/health%20project.pbix)
 
 ---
 
-## ▶️ Quick Project Walkthrough (Optional)
+## ▶️ Quick Project Walkthrough 🤞
 
 > Coming soon: A 2-minute video walkthrough of the project using Loom.
 
