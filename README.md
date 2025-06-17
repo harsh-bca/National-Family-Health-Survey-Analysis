@@ -60,9 +60,9 @@ This is a proof of my problem-solving ability, storytelling through data, and pr
 
 ---
 
-## 📄 Project Report / Summary
+## 📄 Project Dashboard 👇
 
-📥 [Click here to view the full project summary (PDF)](reports/NFHS_Project_Summary.pdf)
+📥 [Click here to view the full project Dashboard (Raw File) ](https://github.com/harsh-bca/National-Family-Health-Survey-Analysis/blob/main/Assets/health%20project.pbix)
 
 ---
 
@@ -74,7 +74,7 @@ This is a proof of my problem-solving ability, storytelling through data, and pr
 
 ## 📬 Connect With Me
 
-- 🔗 [LinkedIn – Harsh Tripathi](linkedin.com/in/harsh-tripathi-64376333a)
+- 🔗[LinkedIn – Harsh Tripathi](https://www.linkedin.com/in/harsh-tripathi-64376333a)
 - 📧 harsh.tripati21@gmail.com
 - 📁 [My Data Analyst Portfolio](https://harsh-bca.github.io/)
 
