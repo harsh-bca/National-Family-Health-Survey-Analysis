@@ -1,6 +1,6 @@
 # 🏥 NFHS Health Insights: A Data Analyst’s Perspective
 
-![NFHS Banner](images/nfhs_banner.png)
+![NFHS Banner](https://github.com/harsh-bca/National-Family-Health-Survey-Analysis/blob/main/Assets/NFHS%20data%20analysis%20banner.png)
 
 ## 📌 Project Overview
 
@@ -74,9 +74,9 @@ This is a proof of my problem-solving ability, storytelling through data, and pr
 
 ## 📬 Connect With Me
 
-- 🔗 [LinkedIn – Harsh Tripathi](https://www.linkedin.com/in/harsh-tripathi)
+- 🔗 [LinkedIn – Harsh Tripathi](linkedin.com/in/harsh-tripathi-64376333a)
 - 📧 harsh.tripati21@gmail.com
-- 📁 [My Data Analyst Portfolio](https://harshtripathi.github.io)
+- 📁 [My Data Analyst Portfolio](https://harsh-bca.github.io/)
 
 ---
 
