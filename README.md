@@ -44,6 +44,11 @@ This project taught me:
 - How to handle **public datasets** with missing or incorrect entries
 - How to translate **data trends into real-world health implications**
 - How to build visual stories for **non-technical stakeholders** using dashboards
+- One key learning from this project was understanding how correlations observed in Python during data exploration may not always hold when visualized in tools like Power BI, especially after applying filters or slicers.
+
+Initially, **I identified a potential correlation between overweight individuals and high sugar levels, and underweight individuals with very high sugar levels using Python**. However, after loading the dataset into Power BI and applying slicers like area type (rural vs. urban), **the correlation wasn't as strong or consistent**.
+
+This experience taught me the importance of validating assumptions across different tools and perspectives, and how context (like geographic segmentation) can significantly influence data interpretation. **It highlighted the need to approach data analysis not just technically, but critically**.
 
 ---
 
